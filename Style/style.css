@@ -1,0 +1,20 @@
+*{
+    padding: 4px;
+    margin: 0px;
+
+}
+body{
+    font-size: 18px;
+
+}
+
+#title{
+    font-family: sans-serif;
+    font-size: x-small;
+}
+
+
+#sub{
+    font-family: sans-serif;
+    font-size: small;
+}
